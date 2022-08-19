@@ -1,1 +1,1 @@
-# Application which will translate text from an android camera. Developed in Android Studio.
+# Application which translates text from an android camera. Developed in Android Studio.
